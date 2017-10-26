@@ -1,1 +1,18 @@
+name: "Anu Joshi"
+output_dir: "."
+navbar:
+  title: "Anu Joshi"
+  right:
+    - text: "Resume"
+      href: resume.html
+    - icon: fa-envelope fa-lg
+      href: mailto:janu.joshi@columbia.edu
+    - icon: fa-github fa-lg
+      href: http://github.com/ajoshi99/ajoshi99.github.io
+output:
+  html_document:
+    theme: flatly
+    include:
+      after_body: footer.html
+    css: styles.css
 theme: paper
