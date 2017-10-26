@@ -9,6 +9,8 @@ navbar:
       href: mailto:anu.joshi@columbia.edu
     - icon: fa-github fa-lg
       href: http://github.com/ajoshi99/ajoshi99.github.io
+    - icon: fa-github fa-lg
+      href: http://github.com/ajoshi99/
 output:
   html_document:
     theme: flatly
