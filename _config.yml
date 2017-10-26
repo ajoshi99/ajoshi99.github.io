@@ -4,7 +4,7 @@ navbar:
   title: "Anu Joshi"
   right:
     - text: "Resume"
-      href: resume.html
+      href: https://github.com/ajoshi99/ajoshi99.github.io/blob/master/AnuJoshi%20CV_Sep2017.pdf
     - icon: fa-envelope fa-lg
       href: mailto:anu.joshi@columbia.edu
     - icon: fa-github fa-lg
