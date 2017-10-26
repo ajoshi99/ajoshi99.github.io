@@ -6,7 +6,7 @@ navbar:
     - text: "Resume"
       href: resume.html
     - icon: fa-envelope fa-lg
-      href: mailto:janu.joshi@columbia.edu
+      href: mailto:anu.joshi@columbia.edu
     - icon: fa-github fa-lg
       href: http://github.com/ajoshi99/ajoshi99.github.io
 output:
