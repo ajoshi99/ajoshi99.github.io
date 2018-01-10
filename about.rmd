@@ -1,0 +1,11 @@
+```{r}
+library(knitr)
+knitr::include_graphics("Joshi.jpg")
+```
+
+
+I am a second year graduate student Columbia University Mailman School of Public Health. I am pursuing a MS in Biostatistics degree in the Statistical Genetics track. I am also a Data Analyst Intern at HITLAB, where I provide statistical support to new and ongoing projects that support the development of new technologies.
+
+I completed a BS in Biostatistics at Saint Peter's University in Jersey City, NJ where I conducted my honors thesis "Reversal in Adipose differentiation \textit{in-vitro}" under the mentorship Dr. Leonard Sciorra. Upon completion, I joined a nano-biotechnology lab for a year where I worked with iodine nanoparticles to treat mice tumors and prepared for a Phase I clinical trial. In order to gain a clinical perspective, I then joined Baystate Medical Center as a Clinical Research Coordinator, where I worked with a team of physician-researchers and biostatisticians in improving patient care. 
+
+###Resume My resume is available here.
