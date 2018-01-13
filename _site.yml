@@ -3,18 +3,19 @@ output_dir: "."
 navbar:
   title: "Anu Joshi"
   right:
-    - text: "Resume"
-      href: https://github.com/ajoshi99/ajoshi99.github.io/blob/master/AnuJoshi%20CV_Sep2017.pdf
+    - text: About
+      href: about.html
+    - text: Presentations
+      href: presentations.html
     - icon: fa-envelope fa-lg
       href: mailto:anu.joshi@columbia.edu
     - icon: fa-github fa-lg
-      href: http://github.com/ajoshi99/ajoshi99.github.io
+      href: http://github.com/ajoshi99/
     - icon: fa-github fa-lg
       href: https://www.linkedin.com/in/anujoshi/
 output:
   html_document:
-    theme: flatly
+    theme: paper
     include:
       after_body: footer.html
-    css: styles.css
-theme: paper
+      css: styles.css
