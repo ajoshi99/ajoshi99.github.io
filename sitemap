@@ -6,7 +6,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<anu.joshi@columbia.edu>
+      href: mailto:<anu.joshi@mssm.edu>
     - icon: fa-github fa-lg
       href: http://github.com/ajoshi99/
     - icon: fa-linkedin fa-lg
