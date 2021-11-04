@@ -13,6 +13,8 @@ navbar:
       href: http://github.com/ajoshi99/
     - icon: fa-github fa-lg
       href: https://www.linkedin.com/in/anujoshi/
+    - icon: fa-orcid fa-lg
+      href: https://orcid.org/0000-0002-6226-8075
 output:
   html_document:
     theme: paper
