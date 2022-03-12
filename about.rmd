@@ -1,11 +1,17 @@
-```{r}
+---
+title: "About"
+---
+
+
+```{r echo=FALSE, out.width = "75%", fig.pos="center"}
 library(knitr)
+
 knitr::include_graphics("Joshi.jpg")
 ```
 
 
-I am a second year graduate student Columbia University Mailman School of Public Health. I am pursuing a MS in Biostatistics degree in the Statistical Genetics track. I am also a Data Analyst Intern at HITLAB, where I provide statistical support to new and ongoing projects that support the development of new technologies.
+I am a research Biostatistician at Icahn School of Medicine at Mount Sinai in the [Department of Environmental Medicine and Public Health](https://icahn.mssm.edu/about/departments/environmental-public-health). I primarily work with [Dr. Megan Niedzwiecki](https://www.mountsinai.org/profiles/megan-m-niedzwiecki) on studying the effects of environmental exposures by studying the metabolomic profiles of pregnant women and children. 
 
-I completed a BS in Biostatistics at Saint Peter's University in Jersey City, NJ where I conducted my honors thesis "Reversal in Adipose differentiation \textit{in-vitro}" under the mentorship Dr. Leonard Sciorra. Upon completion, I joined a nano-biotechnology lab for a year where I worked with iodine nanoparticles to treat mice tumors and prepared for a Phase I clinical trial. In order to gain a clinical perspective, I then joined Baystate Medical Center as a Clinical Research Coordinator, where I worked with a team of physician-researchers and biostatisticians in improving patient care. 
+My resume is available [here]("AnuJoshi_CV_Feb2022.pdf").
 
-###Resume My resume is available here.
+
