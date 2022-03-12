@@ -1,5 +1,5 @@
-_site/
-<<<<<<< HEAD
-=======
+_site_libs
+_site.yml
+_config.yml
 .Rproj.user
->>>>>>> update-info-2022-March-12
+
