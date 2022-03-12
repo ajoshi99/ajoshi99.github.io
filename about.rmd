@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+
+```{r echo=FALSE, out.width = "75%", fig.pos="center"}
+library(knitr)
+
+knitr::include_graphics("Joshi.jpg")
+```
+
+
+I am a research Biostatistician at Icahn School of Medicine at Mount Sinai in the [Department of Environmental Medicine and Public Health](https://icahn.mssm.edu/about/departments/environmental-public-health). I primarily work with [Dr. Megan Niedzwiecki](https://www.mountsinai.org/profiles/megan-m-niedzwiecki) on studying the effects of environmental exposures by studying the metabolomic profiles of pregnant women and children. 
+
+My resume is available [here]("AnuJoshi_CV.pdf").
+
+

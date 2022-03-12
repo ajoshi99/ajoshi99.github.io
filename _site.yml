@@ -3,10 +3,15 @@ output_dir: "."
 navbar:
   title: "Anu Joshi"
   right:
+<<<<<<< HEAD:_site.yml
     - text: About
       href: about.html
     - text: Presentations
       href: presentations.html
+=======
+    - text: "Resume"
+      href: https://github.com/ajoshi99/ajoshi99.github.io/blob/master/AnuJoshi_CV_Feb2022.pdf
+>>>>>>> update-info-2022-March-12:overview.yml
     - icon: fa-envelope fa-lg
       href: mailto:anu.joshi@columbia.edu
     - icon: fa-github fa-lg
